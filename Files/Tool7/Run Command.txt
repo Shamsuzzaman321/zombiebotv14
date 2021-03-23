@@ -1,0 +1,1 @@
+python bruter.py 50 domain.txt password.txt
