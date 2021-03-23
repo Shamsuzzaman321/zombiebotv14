@@ -17,3 +17,5 @@ python based latest zombie bot v.14
 ##-pip install tldextract
 
 Educational purpose only use it with your risk
+![Ekran Alıntısı](https://user-images.githubusercontent.com/42300174/112203000-3b8db080-8c3c-11eb-83b4-b13a7129c9c5.PNG)
+
